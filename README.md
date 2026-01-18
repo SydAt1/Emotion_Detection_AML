@@ -30,3 +30,6 @@ This repository contains notebooks for:
 
 - `retraining_LSTM.ipynb`  
   Retrained and improved LSTM version
+
+## Drive Link
+- The Link to all the models and dataset as well as the notebooks for this project: https://drive.google.com/drive/folders/1xp-o9rcHaXrdCDvrSqtf0iN7_hteyV7n?usp=sharing 
